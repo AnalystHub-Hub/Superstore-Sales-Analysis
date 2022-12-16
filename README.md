@@ -4,7 +4,7 @@
 
 
 
-`Follow link to have a glance at the complete project` [Read More](https://medium.com/@njimonda.co/store-sales-analysis-and-forecasting-209dc0372da)
+`Follow link to have a glance at the complete project` [Read More](https://njimonda.github.io/superstoreDemo/)
 
 ![Logo](https://miro.medium.com/max/640/1*wOIhCFyLFYpUVSHY4MqnMA.gif)
 
